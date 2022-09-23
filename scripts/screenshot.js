@@ -14,12 +14,17 @@
     { title: 'Terms and conditions', path: '/terms-conditions'}
   ]
 */
-const paths = [{
-  title: 'Index page',
-  path: '/'
-}]
+
+const paths = [
+  { title: 'Benefits of using a framework', path: 'beta/phase-8/find-a-framework-v2/start' },
+  { title: 'How frameworks are selected', path: 'beta/phase-8/find-a-framework-v2/selection' },
+  { title: 'After you have used the service', path: 'beta/phase-8/find-a-framework-v2/service-output' },
+  { title: 'What are you buying', path: 'beta/phase-8/find-a-framework-v2/find' },
+  { title: 'What services do you need', path: 'beta/phase-8/find-a-framework-v2/services?category=&sub-category=&facilities=&gas-price=&meter=&support-required=' },
+  { title: 'Energy interruption', path: 'beta/phase-8/find-a-framework-v2/services/energy-update?facilities=&gas-price=&meter=&support-required=' }
+]
 const { DateTime } = require('luxon')
-const domain = 'http://localhost:3000'
+const domain = 'http://localhost:3000/'
 
 // Dependencies
 const webshot = require('webshot-node')
