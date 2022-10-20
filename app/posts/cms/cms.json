@@ -1,0 +1,6 @@
+{
+  "tags": ["cms"],
+  "eleventyNavigation": {
+    "parent": "Case Management System"
+  }
+}
