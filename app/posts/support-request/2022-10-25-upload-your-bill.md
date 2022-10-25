@@ -1,5 +1,6 @@
 ---
   title: Upload your bill
+  description: How do we allow users to supply their energy information quickly and easily
   date: 2022-10-25
   screenshots:
     items:
