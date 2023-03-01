@@ -1,0 +1,6 @@
+{
+  "tags": ["contact"],
+  "eleventyNavigation": {
+    "parent": "Contact Team"
+  }
+}
