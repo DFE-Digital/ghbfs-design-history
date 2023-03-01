@@ -6,7 +6,7 @@ module.exports = function (eleventyConfig) {
     ],
     headingPermalinks: true,
     header: {
-      productName: 'Contact the Buildings Safety Regulator',
+      productName: 'Design history for Get help buying for schools',
       search: {
         indexPath: '/search.json',
         sitemapPath: '/sitemap'
