@@ -8,7 +8,7 @@
 The contract handover happens towards the end of a procurement. The core activity is procurement operations sharing the finalise contract information with the school buying professional at an educational establishment. The contract should then be stored in a safe location.
 
 ## Problems with the current journey
-This is the second Galaxkey journey in the procurement process and is subject to the same/similar problems listed in the [Replace Galaxkey for evaluators post](2024-11-05-Replace-Galaxkey-for-evaluators).
+This is the second Galaxkey journey in the procurement process and is subject to the same/similar problems listed in the [Replace Galaxkey for evaluators post](/cms/Replace-Galaxkey-for-evaluators/).
 
 ## The current contract handover journey
 A simplified description of the evaluation journey can be described as:
