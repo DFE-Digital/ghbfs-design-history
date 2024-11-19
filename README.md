@@ -18,6 +18,8 @@ This repository makes it easy to:
 
 Read our guide on how to [set up a design history](https://design-history.herokuapp.com/set-up-a-design-history/).
 
+Use `npx @11ty/eleventy --serve` to run the design history locally.
+
 ## Example design histories
 
 * [Becoming a teacher](https://bat-design-history.netlify.app)
