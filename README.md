@@ -1,4 +1,8 @@
-# Design history for GOV.UK services
+# Archiving design history repo
+
+This design history is being archived and the entries moved over to the [common DfE design history app](https://design-histories.education.gov.uk/team/get-help-buying-for-schools).
+
+## Design history for GOV.UK services
 
 A place for you to document your GOV.UK service designs.
 
